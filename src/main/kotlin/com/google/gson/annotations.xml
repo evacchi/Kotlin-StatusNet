@@ -1,0 +1,5 @@
+<root>
+  <item name='com.google.gson.Gson T fromJson(java.io.Reader, java.lang.reflect.Type)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
